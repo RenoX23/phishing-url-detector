@@ -7,7 +7,7 @@
 
 AI-powered phishing URL detection using Machine Learning and Explainable AI (SHAP).
 
-![App Screenshot](screenshots/main_interface.png)
+![App Screenshot](screenshots/main.png)
 
 ## 🎯 Problem Statement
 
