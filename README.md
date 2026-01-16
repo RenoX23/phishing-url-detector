@@ -43,7 +43,7 @@ Phishing attacks cost billions annually and compromise millions of users. Tradit
 ### Installation
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/RenoX23/phishing-url-detector
 cd phishing-url-detector
 
 # Create virtual environment
@@ -185,13 +185,57 @@ This project demonstrates:
 ### Legitimate URL
 ![Legitimate Result](screenshots/safe_results.png)
 
+## 📚 Learning Outcomes
+
+This project demonstrates:
+- ✅ End-to-end ML pipeline
+- ✅ Feature engineering for cybersecurity
+- ✅ Model selection & evaluation
+- ✅ Explainable AI implementation
+- ✅ Production-grade deployment
+- ✅ Software engineering best practices
+
+
 ## 🤝 Contributing
 
 This is an educational project. Suggestions and improvements are welcome!
+Areas for improvement:
+- Additional feature engineering
+- Model optimization
+- UI/UX enhancements
+- Documentation improvements
+---
+
+<p align="center">
+  <b>⭐ Star this repo if you find it useful!</b>
+</p>
+
+<p align="center">
+  Made with ❤️ for cybersecurity education
+</p>
+
+
+---
 
 ## 📄 License
 
-MIT License - Feel free to use for educational purposes.
+
+MIT License
+
+Copyright (c) 2026 [RenoX23]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+
 
 ## 👨‍💻 Author
 
@@ -201,7 +245,7 @@ Built as part of AI/ML coursework - January 2026
 
 - Dataset: Kaggle Phishing URL Dataset
 - Inspiration: Real-world cybersecurity challenges
-- Course: AI/ML subject curriculum
+- Course: AI/ML subject curriculum - [Christ University - Kengeri]
 
 ---
 
