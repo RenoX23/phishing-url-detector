@@ -177,13 +177,13 @@ This project demonstrates:
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](screenshots/main.png)
 
 ### Phishing Detection
-![Phishing Result](screenshots/phishing_detection.png)
+![Phishing Result](screenshots/malicious_results.png)
 
 ### Legitimate URL
-![Legitimate Result](screenshots/legitimate_url.png)
+![Legitimate Result](screenshots/safe_results.png)
 
 ## 🤝 Contributing
 
